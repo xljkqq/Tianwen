@@ -1,0 +1,2 @@
+这部分其实有两个文件ctarget和rtarget，对应的分别是Codeinjection和ROP。我在做的时候没有看到题目要求，就先用ROP完成了ctarget，然后看到要求就有用Codeinjection实现了一下。
+做完有发现rtarget其实和ctarget一样，所以就没有重新写了，ROP和Codeinjection都在一个exp里（Codeinjection就是RetStack？）
