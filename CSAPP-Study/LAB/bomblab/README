@@ -1,2 +1,16 @@
 这部分其实就是逆向，因为本来就是CTF的逆向选手，所以这部分比较简单。
 对于汇编到C的理解，推荐阅读《c++反汇编与逆向分析技术揭秘》。我感觉是讲这部分内容了最好的书了。
+
+
+###answer
+
+phase1: Border relations with Canada have never been better.
+phase2: 1 2 4 8 16 32
+phase3: 0 207
+phase4: 7 0
+phase5: 9ON567
+phase6: 4 3 2 1 6 5
+
+###
+这部分写的时候没有写笔记
+后续补上
